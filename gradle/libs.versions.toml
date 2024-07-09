@@ -1,5 +1,5 @@
 [versions]
-about-lib = "11.2.1"
+about-lib = "11.2.2"
 activity-compose = "1.9.0"
 android-gradle-plugin = "8.5.0"
 androidx-test-rules = "1.6.1"
@@ -30,13 +30,13 @@ kotlinx-serialization = "1.7.1"
 kotlinx-serialization-converter = "1.0.0"
 leakcanary = "2.14"
 lifecycle-runtime-ktx = "2.8.2"
-lifecycle-viewmodel-compose = "2.8.2"
+lifecycle-viewmodel-compose = "2.8.3"
 mapsplatform-secrets = "2.0.1"
 mockk = "1.13.11"
 okhttp = "4.12.0"
 play-services-location = "21.3.0"
 retrofit = "2.11.0"
-truth = "1.4.2"
+truth = "1.4.3"
 turbine = "1.1.0"
 
 [libraries]
