@@ -128,7 +128,7 @@ fun SingleSelectBottomSheet(
             }
         },
         sheetState = sheetState,
-        windowInsets = WindowInsets.navigationBars,
+//        windowInsets = WindowInsets.navigationBars,
     ) {
         Column(
             modifier = Modifier.fillMaxWidth()
