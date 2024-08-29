@@ -3,9 +3,7 @@ package com.github.odaridavid.weatherapp.designsystem.organism
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.navigationBars
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -54,7 +52,7 @@ fun MultiSelectBottomSheet(
             }
         },
         sheetState = sheetState,
-        windowInsets = WindowInsets.navigationBars,
+//        windowInsets = WindowInsets.navigationBars,
     ) {
         Column(
             modifier = Modifier
